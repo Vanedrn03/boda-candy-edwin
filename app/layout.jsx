@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'Candy & Edwin | 28.11.2026',description:'Con alegría en nuestros corazones, te invitamos a celebrar nuestra boda.'};export default function Layout({children}){return <html lang="es"><body>{children}</body></html>}
